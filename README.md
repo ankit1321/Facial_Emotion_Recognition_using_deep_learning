@@ -8,4 +8,7 @@
     
     $ python detect_mask_image.py --image "iamgename_with_extension" [--model "modelname"]
     
-Modelname is optional - it takes defaultmodel present in directory.
+Modelname is optional - it takes defaultmodel present in directory.  
+
+Code for Facial Emotion Recognition in real-time video will be posted soon.  
+## Stay Tuned.
