@@ -10,5 +10,10 @@
     
 Modelname is optional - it takes defaultmodel present in directory.  
 
+#### Model_100_70%acc
+
+This model is trained for 100 epochs and has achieved 70% accuracy.  
+
+
 Code for Facial Emotion Recognition in real-time video will be posted soon.  
 ## Stay Tuned.
