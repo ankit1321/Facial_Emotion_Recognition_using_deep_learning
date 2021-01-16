@@ -1,19 +1,2 @@
 # Facial_Emotion_Recognition_using_deep_learning
 
-### Face_emotion_recog_trainer.py trains the model for detection of different emotion.
-
-#### Usage:
-    
-    $ python Face_emotion_recog_trainer.py --dataset "Dataset name"
-    
-    $ python detect_mask_image.py --image "iamgename_with_extension" [--model "modelname"]
-    
-Modelname is optional - it takes defaultmodel present in directory.  
-
-#### Model_100_70%acc
-
-This model is trained for 100 epochs and has achieved 70% accuracy.  
-
-
-Code for Facial Emotion Recognition in real-time video will be posted soon.  
-## Stay Tuned.
